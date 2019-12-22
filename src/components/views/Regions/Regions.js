@@ -5,13 +5,12 @@ import PageTitle from '../../common/PageTitle/PageTitle';
 import CountrySummary from '../../features/CountrySummary/CountrySummary';
 
 import styles from './Regions.scss';
-import {Grid, Row} from 'react-flexbox-grid';
+import { Grid, Row } from 'react-flexbox-grid';
 
-const Regions = ({regions, subregions, countries}) => (
-
+const Regions = ({ regions, subregions, countries }) => (
   <Section>
     <Grid>
-      <PageTitle text='All regions' />
+      <PageTitle text="All regions" />
       {Object.keys(regions).map(regionName => (
         <div key={`region-${regionName}`}>
           <h2 className={styles.name}>{regionName}</h2>
@@ -20,7 +19,10 @@ const Regions = ({regions, subregions, countries}) => (
               <h3 className={styles.subtitle}>{subregionName}</h3>
               <Row>
                 {subregions[subregionName].countries.map(code => (
-                  <CountrySummary key={countries[code].alpha3Code} {...countries[code]} />
+                  <CountrySummary
+                    key={countries[code].alpha3Code}
+                    {...countries[code]}
+                  />
                 ))}
               </Row>
             </div>
@@ -29,7 +31,6 @@ const Regions = ({regions, subregions, countries}) => (
       ))}
     </Grid>
   </Section>
-
 );
 
 Regions.propTypes = {

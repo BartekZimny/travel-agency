@@ -3,7 +3,11 @@
     "id": "car-rental",
     "name": "Car Rental",
     "type": "dropdown",
-    "values": [{ "id": "full", "name": "Full-Size", "price": 100 }, { "id": "suv", "name": "SUV", "price": 200 }, { "id": "luxury", "name": "Luxury", "price": 300 }]
+    "values": [
+      { "id": "full", "name": "Full-Size", "price": 100 },
+      { "id": "suv", "name": "SUV", "price": 200 },
+      { "id": "luxury", "name": "Luxury", "price": 300 }
+    ]
   },
   {
     "id": "accommodation",
@@ -11,7 +15,11 @@
     "type": "icons",
     "required": true,
     "defaultValue": "hotel",
-    "values": [{ "id": "hotel", "icon": "h-square", "name": "Hotel room", "price": 0 }, { "id": "suite", "icon": "building", "name": "Suite", "price": 500 }, { "id": "house", "icon": "home", "name": "House", "price": 1000 }]
+    "values": [
+      { "id": "hotel", "icon": "h-square", "name": "Hotel room", "price": 0 },
+      { "id": "suite", "icon": "building", "name": "Suite", "price": 500 },
+      { "id": "house", "icon": "home", "name": "House", "price": 1000 }
+    ]
   },
   {
     "id": "features",

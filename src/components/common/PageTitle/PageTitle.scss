@@ -1,11 +1,11 @@
-@import '../../../styles/settings.scss';
+@import "../../../styles/settings.scss";
 
 .title {
   position: relative;
   font-size: ($base-size * 3);
   margin: ($base-size * 2) 0 ($base-size * 6);
-  @include p-el('after') {
-    content: '';
+  @include p-el("after") {
+    content: "";
     width: ($base-size * 4);
     height: ($base-size / 3);
     bottom: ($base-size * -1);

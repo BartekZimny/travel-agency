@@ -6,9 +6,9 @@ use the code below at: https://next.json-generator.com
 
 [
   {
-    'repeat(25)': {
-      id: '{{objectId()}}',
-      country(tags){
+    "repeat(25)": {
+      id: "{{objectId()}}",
+      country(tags) {
         const options = [
           // {'code': 'AFG', 'name': 'Afghanistan'},
           // {'code': 'ALA', 'name': 'Åland Islands'},
@@ -26,7 +26,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'AUS', 'name': 'Australia'},
           // {'code': 'AUT', 'name': 'Austria'},
           // {'code': 'AZE', 'name': 'Azerbaijan'},
-          {'code': 'BHS', 'name': 'Bahamas'},
+          { code: "BHS", name: "Bahamas" },
           // {'code': 'BHR', 'name': 'Bahrain'},
           // {'code': 'BGD', 'name': 'Bangladesh'},
           // {'code': 'BRB', 'name': 'Barbados'},
@@ -58,7 +58,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'CAF', 'name': 'Central African Republic'},
           // {'code': 'TCD', 'name': 'Chad'},
           // {'code': 'CHL', 'name': 'Chile'},
-          {'code': 'CHN', 'name': 'China'},
+          { code: "CHN", name: "China" },
           // {'code': 'CXR', 'name': 'Christmas Island'},
           // {'code': 'CCK', 'name': 'Cocos (Keeling) Islands'},
           // {'code': 'COL', 'name': 'Colombia'},
@@ -72,7 +72,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'CUW', 'name': 'Curaçao'},
           // {'code': 'CYP', 'name': 'Cyprus'},
           // {'code': 'CZE', 'name': 'Czech Republic'},
-          {'code': 'DNK', 'name': 'Denmark'},
+          { code: "DNK", name: "Denmark" },
           // {'code': 'DJI', 'name': 'Djibouti'},
           // {'code': 'DMA', 'name': 'Dominica'},
           // {'code': 'DOM', 'name': 'Dominican Republic'},
@@ -86,18 +86,18 @@ use the code below at: https://next.json-generator.com
           // {'code': 'FLK', 'name': 'Falkland Islands (Malvinas)'},
           // {'code': 'FRO', 'name': 'Faroe Islands'},
           // {'code': 'FJI', 'name': 'Fiji'},
-          {'code': 'FIN', 'name': 'Finland'},
-          {'code': 'FRA', 'name': 'France'},
+          { code: "FIN", name: "Finland" },
+          { code: "FRA", name: "France" },
           // {'code': 'GUF', 'name': 'French Guiana'},
           // {'code': 'PYF', 'name': 'French Polynesia'},
           // {'code': 'ATF', 'name': 'French Southern Territories'},
           // {'code': 'GAB', 'name': 'Gabon'},
           // {'code': 'GMB', 'name': 'Gambia'},
           // {'code': 'GEO', 'name': 'Georgia'},
-          {'code': 'DEU', 'name': 'Germany'},
+          { code: "DEU", name: "Germany" },
           // {'code': 'GHA', 'name': 'Ghana'},
           // {'code': 'GIB', 'name': 'Gibraltar'},
-          {'code': 'GRC', 'name': 'Greece'},
+          { code: "GRC", name: "Greece" },
           // {'code': 'GRL', 'name': 'Greenland'},
           // {'code': 'GRD', 'name': 'Grenada'},
           // {'code': 'GLP', 'name': 'Guadeloupe'},
@@ -113,7 +113,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'HND', 'name': 'Honduras'},
           // {'code': 'HKG', 'name': 'Hong Kong'},
           // {'code': 'HUN', 'name': 'Hungary'},
-          {'code': 'ISL', 'name': 'Iceland'},
+          { code: "ISL", name: "Iceland" },
           // {'code': 'IND', 'name': 'India'},
           // {'code': 'IDN', 'name': 'Indonesia'},
           // {'code': 'CIV', 'name': 'Côte d\'Ivoire'},
@@ -124,7 +124,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'ISR', 'name': 'Israel'},
           // {'code': 'ITA', 'name': 'Italy'},
           // {'code': 'JAM', 'name': 'Jamaica'},
-          {'code': 'JPN', 'name': 'Japan'},
+          { code: "JPN", name: "Japan" },
           // {'code': 'JEY', 'name': 'Jersey'},
           // {'code': 'JOR', 'name': 'Jordan'},
           // {'code': 'KAZ', 'name': 'Kazakhstan'},
@@ -145,7 +145,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'MKD', 'name': 'Macedonia (the former Yugoslav Republic of)'},
           // {'code': 'MDG', 'name': 'Madagascar'},
           // {'code': 'MWI', 'name': 'Malawi'},
-          {'code': 'MYS', 'name': 'Malaysia'},
+          { code: "MYS", name: "Malaysia" },
           // {'code': 'MDV', 'name': 'Maldives'},
           // {'code': 'MLI', 'name': 'Mali'},
           // {'code': 'MLT', 'name': 'Malta'},
@@ -166,7 +166,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'MMR', 'name': 'Myanmar'},
           // {'code': 'NAM', 'name': 'Namibia'},
           // {'code': 'NRU', 'name': 'Nauru'},
-          {'code': 'NPL', 'name': 'Nepal'},
+          { code: "NPL", name: "Nepal" },
           // {'code': 'NLD', 'name': 'Netherlands'},
           // {'code': 'NCL', 'name': 'New Caledonia'},
           // {'code': 'NZL', 'name': 'New Zealand'},
@@ -177,7 +177,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'NFK', 'name': 'Norfolk Island'},
           // {'code': 'PRK', 'name': 'Korea (Democratic People\'s Republic of)'},
           // {'code': 'MNP', 'name': 'Northern Mariana Islands'},
-          {'code': 'NOR', 'name': 'Norway'},
+          { code: "NOR", name: "Norway" },
           // {'code': 'OMN', 'name': 'Oman'},
           // {'code': 'PAK', 'name': 'Pakistan'},
           // {'code': 'PLW', 'name': 'Palau'},
@@ -189,7 +189,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'PHL', 'name': 'Philippines'},
           // {'code': 'PCN', 'name': 'Pitcairn'},
           // {'code': 'POL', 'name': 'Poland'},
-          {'code': 'PRT', 'name': 'Portugal'},
+          { code: "PRT", name: "Portugal" },
           // {'code': 'PRI', 'name': 'Puerto Rico'},
           // {'code': 'QAT', 'name': 'Qatar'},
           // {'code': 'KOS', 'name': 'Republic of Kosovo'},
@@ -207,7 +207,7 @@ use the code below at: https://next.json-generator.com
           // {'code': 'WSM', 'name': 'Samoa'},
           // {'code': 'SMR', 'name': 'San Marino'},
           // {'code': 'STP', 'name': 'Sao Tome and Principe'},
-          {'code': 'SAU', 'name': 'Saudi Arabia'},
+          { code: "SAU", name: "Saudi Arabia" },
           // {'code': 'SEN', 'name': 'Senegal'},
           // {'code': 'SRB', 'name': 'Serbia'},
           // {'code': 'SYC', 'name': 'Seychelles'},
@@ -222,13 +222,13 @@ use the code below at: https://next.json-generator.com
           // {'code': 'SGS', 'name': 'South Georgia and the South Sandwich Islands'},
           // {'code': 'KOR', 'name': 'Korea (Republic of)'},
           // {'code': 'SSD', 'name': 'South Sudan'},
-          {'code': 'ESP', 'name': 'Spain'},
+          { code: "ESP", name: "Spain" },
           // {'code': 'LKA', 'name': 'Sri Lanka'},
           // {'code': 'SDN', 'name': 'Sudan'},
           // {'code': 'SUR', 'name': 'Suriname'},
           // {'code': 'SJM', 'name': 'Svalbard and Jan Mayen'},
           // {'code': 'SWZ', 'name': 'Swaziland'},
-          {'code': 'SWE', 'name': 'Sweden'},
+          { code: "SWE", name: "Sweden" }
           // {'code': 'CHE', 'name': 'Switzerland'},
           // {'code': 'SYR', 'name': 'Syrian Arab Republic'},
           // {'code': 'TWN', 'name': 'Taiwan'},
@@ -261,47 +261,72 @@ use the code below at: https://next.json-generator.com
           // {'code': 'ZMB', 'name': 'Zambia'},
           // {'code': 'ZWE', 'name': 'Zimbabwe'},
         ];
-        const selected = options.splice(tags.integer(0, options.length - 1), 1)[0];
+        const selected = options.splice(
+          tags.integer(0, options.length - 1),
+          1
+        )[0];
         return {
           name: selected.name,
-          code: selected.code,
+          code: selected.code
         };
       },
-      name(tags){
-        const adj = 'amazing astonishing awesome brilliant excellent fabulous fantastic incredible magnificent marvelous outstanding phenomenal remarkable sensational superb terrific tremendous wondrous'.split(' ');
-        const noun = 'adventure cruise expedition hiking tour travel'.split(' ');
-        return `${adj.splice(tags.integer(0, adj.length - 1), 1).map(w => w[0].toUpperCase() + w.substr(1))[0]}
+      name(tags) {
+        const adj = "amazing astonishing awesome brilliant excellent fabulous fantastic incredible magnificent marvelous outstanding phenomenal remarkable sensational superb terrific tremendous wondrous".split(
+          " "
+        );
+        const noun = "adventure cruise expedition hiking tour travel".split(
+          " "
+        );
+        return `${
+          adj
+            .splice(tags.integer(0, adj.length - 1), 1)
+            .map(w => w[0].toUpperCase() + w.substr(1))[0]
+        }
           ${noun.splice(tags.integer(0, noun.length - 1), 1)[0]}
-          in ${adj.splice(tags.integer(0, adj.length - 1), 1)[0]} ${this.country.name}`.replace(/\s+/g, ' ');
+          in ${adj.splice(tags.integer(0, adj.length - 1), 1)[0]} ${
+          this.country.name
+        }`.replace(/\s+/g, " ");
       },
-      days(tags){
+      days(tags) {
         return tags.integer(2, 14);
       },
-      cost(tags){
+      cost(tags) {
         const base = 1000 * this.days;
-        return tags.floating(base, base*10, 2, '$0,0.00');
+        return tags.floating(base, base * 10, 2, "$0,0.00");
       },
-      image(tags){
-        return `https://loremflickr.com/400/200/landscape,${encodeURIComponent(this.country.name.replace(/[,(].*$/, ''))}/all?lock=${tags.index()+1}`;
+      image(tags) {
+        return `https://loremflickr.com/400/200/landscape,${encodeURIComponent(
+          this.country.name.replace(/[,(].*$/, "")
+        )}/all?lock=${tags.index() + 1}`;
       },
       address(tags) {
-        return `${tags.integer(100, 999)} ${tags.street()}, ${tags.city()}, ${tags.integer(100, 10000)}, ${this.country.name}`;
+        return `${tags.integer(
+          100,
+          999
+        )} ${tags.street()}, ${tags.city()}, ${tags.integer(100, 10000)}, ${
+          this.country.name
+        }`;
       },
-      tags(tags){
-        const options = 'all-inclusive child-friendly beach spa pool skiing sightseeing mountains'.split(' ');
+      tags(tags) {
+        const options = "all-inclusive child-friendly beach spa pool skiing sightseeing mountains".split(
+          " "
+        );
         const out = [];
 
-        for(let i=0; i<tags.integer(1, 3); i++){
+        for (let i = 0; i < tags.integer(1, 3); i++) {
           out.push(options.splice(tags.integer(0, options.length - 1), 1)[0]);
         }
         return out;
       },
       intro(tags) {
-        return `${tags.lorem(tags.integer(2, 3), 'sentences')}`;
+        return `${tags.lorem(tags.integer(2, 3), "sentences")}`;
       },
       description(tags) {
-        return `<p>${tags.lorem(tags.integer(3, 5), 'paragraphs')}</p>`.replace(/\n\n/g, '</p><p>');
-      },
-    },
-  },
-]
+        return `<p>${tags.lorem(tags.integer(3, 5), "paragraphs")}</p>`.replace(
+          /\n\n/g,
+          "</p><p>"
+        );
+      }
+    }
+  }
+];

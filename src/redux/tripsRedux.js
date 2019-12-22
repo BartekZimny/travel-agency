@@ -13,24 +13,35 @@ export const getFilteredTrips = ({ trips, filters }) => {
 
   // DONE - TODO - filter by duration
   if (filters.duration) {
-    output = output.filter(trip => trip.days >= filters.duration.from && trip.days <= filters.duration.to);
+    output = output.filter(
+      trip =>
+        trip.days >= filters.duration.from && trip.days <= filters.duration.to
+    );
   }
 
   // DONE - TODO - filter by tags
   if (filters.tags) {
-    output = output.filter(trip => filters.tags.every(tag => trip.tags.indexOf(tag) > -1));
+    output = output.filter(trip =>
+      filters.tags.every(tag => trip.tags.indexOf(tag) > -1)
+    );
   }
   // DONE - TODO - sort by cost descending (most expensive goes first)
   const getValueFromString = costString => {
     const parsed = parseInt(
       costString /* string argument to parse*/
-        .split('') /* split a string into an array of substrings (string is split between each character) */
-        .filter(element => !isNaN(element)) /* creates a new array of elements that are numbers (removes all elements that are not numbers) */
+        .split(
+          ''
+        ) /* split a string into an array of substrings (string is split between each character) */
+        .filter(
+          element => !isNaN(element)
+        ) /* creates a new array of elements that are numbers (removes all elements that are not numbers) */
         .join('') /* combines all elements of an array into one string */
     );
     return parsed;
   };
-  output.sort((a, b) => getValueFromString(b.cost) - getValueFromString(a.cost)); /* sorting results (descending) */
+  output.sort(
+    (a, b) => getValueFromString(b.cost) - getValueFromString(a.cost)
+  ); /* sorting results (descending) */
 
   return output;
 };

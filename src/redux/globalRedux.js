@@ -1,6 +1,5 @@
 /* SELECTORS */
 
-
 /* ACTIONS */
 
 // action name creator
@@ -11,7 +10,10 @@ const createActionName = name => `app/${reducerName}/${name}`;
 export const SET_MULTIPLE_STATES = createActionName('SET_MULTIPLE_STATES');
 
 // action creators
-export const setMultipleStates = payload => ({ payload, type: SET_MULTIPLE_STATES });
+export const setMultipleStates = payload => ({
+  payload,
+  type: SET_MULTIPLE_STATES,
+});
 
 // reducer
 export default function reducer(state = [], action = {}) {

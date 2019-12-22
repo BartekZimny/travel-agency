@@ -1,4 +1,4 @@
-@import '../../../styles/settings.scss';
+@import "../../../styles/settings.scss";
 
 .options {
   margin: ($base-size * 8) 0 0;
@@ -17,9 +17,7 @@
 }
 
 @media (max-width: 767px) {
-
   .options {
     margin: ($base-size * 2) 0 0;
   }
-
 }

@@ -15,7 +15,16 @@ import OrderForm from '../../features/OrderForm/OrderFormContainer';
 import styles from './Trip.scss';
 import { Grid, Row, Col } from 'react-flexbox-grid';
 
-const Trip = ({ error, name, image, cost, days, description, country, intro }) => {
+const Trip = ({
+  error,
+  name,
+  image,
+  cost,
+  days,
+  description,
+  country,
+  intro,
+}) => {
   if (error) return <NotFound />;
   else
     return (
@@ -32,8 +41,14 @@ const Trip = ({ error, name, image, cost, days, description, country, intro }) =
               <Col md={12} lg={4}>
                 <div className={styles.intro}>{HTMLParser(intro)}</div>
                 <List variant="light">
-                  <ListItem title={`<strong>Duration:</strong> ${days} days`} icon="calendar-alt" />
-                  <ListItem title={`<strong>Price:</strong> from ${cost}`} icon="money-bill-wave" />
+                  <ListItem
+                    title={`<strong>Duration:</strong> ${days} days`}
+                    icon="calendar-alt"
+                  />
+                  <ListItem
+                    title={`<strong>Price:</strong> from ${cost}`}
+                    icon="money-bill-wave"
+                  />
                 </List>
               </Col>
             </Row>
@@ -58,9 +73,19 @@ const Trip = ({ error, name, image, cost, days, description, country, intro }) =
             <Row>
               <Col md={12} lg={4}>
                 <List variant="light">
-                  <ListItem title={`<strong>Capital:</strong> ${country.capital}`} icon="city" />
-                  <ListItem title={`<strong>Population:</strong> ${country.population / 1000000} millions`} icon="users" />
-                  <ListItem title={`<strong>Currency:</strong> ${country.currencies[0].symbol} (${country.currencies[0].name})`} icon="money-bill-wave" />
+                  <ListItem
+                    title={`<strong>Capital:</strong> ${country.capital}`}
+                    icon="city"
+                  />
+                  <ListItem
+                    title={`<strong>Population:</strong> ${country.population /
+                      1000000} millions`}
+                    icon="users"
+                  />
+                  <ListItem
+                    title={`<strong>Currency:</strong> ${country.currencies[0].symbol} (${country.currencies[0].name})`}
+                    icon="money-bill-wave"
+                  />
                 </List>
               </Col>
             </Row>

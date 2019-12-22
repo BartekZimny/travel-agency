@@ -5,20 +5,20 @@ import TripSummary from '../../features/TripSummary/TripSummary';
 import Section from '../../layout/Section/Section';
 import PageTitle from '../../common/PageTitle/PageTitle';
 
-import {Grid, Row, Col} from 'react-flexbox-grid';
+import { Grid, Row, Col } from 'react-flexbox-grid';
 import TripListOptions from '../../features/TripListOptions/TripListOptionsContainer';
 
-const Trips = ({trips}) => (
+const Trips = ({ trips }) => (
   <Section>
     <Grid>
       <Row>
         <Col xs={12}>
-          <PageTitle text='All trips' />
+          <PageTitle text="All trips" />
           <TripListOptions />
           <Row>
-            {trips.length ? trips.map(trip => (
-              <TripSummary key={trip.id} {...trip} />
-            )) : (
+            {trips.length ? (
+              trips.map(trip => <TripSummary key={trip.id} {...trip} />)
+            ) : (
               <p>Sorry, no results found. Try adjusting the filters.</p>
             )}
           </Row>

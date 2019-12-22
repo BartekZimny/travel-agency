@@ -1,4 +1,4 @@
-import {connect} from 'react-redux';
+import { connect } from 'react-redux';
 import Regions from './Regions';
 import { getAllRegions } from '../../../redux/regionsRedux';
 import { getAllSubregions } from '../../../redux/subregionsRedux';

@@ -35,17 +35,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 27657145,
-    "timezones": [
-      "UTC+04:30"
-    ],
-    "borders": [
-      "IRN",
-      "PAK",
-      "TKM",
-      "UZB",
-      "TJK",
-      "CHN"
-    ]
+    "timezones": ["UTC+04:30"],
+    "borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"]
   },
   {
     "currencies": [
@@ -71,9 +62,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 28875,
-    "timezones": [
-      "UTC+02:00"
-    ],
+    "timezones": ["UTC+02:00"],
     "borders": []
   },
   {
@@ -100,15 +89,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 2886026,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "MNE",
-      "GRC",
-      "MKD",
-      "KOS"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["MNE", "GRC", "MKD", "KOS"]
   },
   {
     "currencies": [
@@ -134,18 +116,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 40400000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "TUN",
-      "LBY",
-      "NER",
-      "ESH",
-      "MRT",
-      "MLI",
-      "MAR"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"]
   },
   {
     "currencies": [
@@ -177,9 +149,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 57100,
-    "timezones": [
-      "UTC-11:00"
-    ],
+    "timezones": ["UTC-11:00"],
     "borders": []
   },
   {
@@ -206,13 +176,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 78014,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "FRA",
-      "ESP"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["FRA", "ESP"]
   },
   {
     "currencies": [
@@ -238,15 +203,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 25868000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "COG",
-      "COD",
-      "ZMB",
-      "NAM"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["COG", "COD", "ZMB", "NAM"]
   },
   {
     "currencies": [
@@ -272,9 +230,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 13452,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -348,9 +304,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 86295,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -383,16 +337,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 43590400,
-    "timezones": [
-      "UTC-03:00"
-    ],
-    "borders": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "PRY",
-      "URY"
-    ]
+    "timezones": ["UTC-03:00"],
+    "borders": ["BOL", "BRA", "CHL", "PRY", "URY"]
   },
   {
     "currencies": [
@@ -423,15 +369,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 2994400,
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "borders": [
-      "AZE",
-      "GEO",
-      "IRN",
-      "TUR"
-    ]
+    "timezones": ["UTC+04:00"],
+    "borders": ["AZE", "GEO", "IRN", "TUR"]
   },
   {
     "currencies": [
@@ -463,9 +402,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 107394,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -528,19 +465,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 8725931,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "CZE",
-      "DEU",
-      "HUN",
-      "ITA",
-      "LIE",
-      "SVK",
-      "SVN",
-      "CHE"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"]
   },
   {
     "currencies": [
@@ -565,16 +491,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 9730500,
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "borders": [
-      "ARM",
-      "GEO",
-      "IRN",
-      "RUS",
-      "TUR"
-    ]
+    "timezones": ["UTC+04:00"],
+    "borders": ["ARM", "GEO", "IRN", "RUS", "TUR"]
   },
   {
     "currencies": [
@@ -600,9 +518,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 378040,
-    "timezones": [
-      "UTC-05:00"
-    ],
+    "timezones": ["UTC-05:00"],
     "borders": []
   },
   {
@@ -629,9 +545,7 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 1404900,
-    "timezones": [
-      "UTC+03:00"
-    ],
+    "timezones": ["UTC+03:00"],
     "borders": []
   },
   {
@@ -658,13 +572,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 161006790,
-    "timezones": [
-      "UTC+06:00"
-    ],
-    "borders": [
-      "MMR",
-      "IND"
-    ]
+    "timezones": ["UTC+06:00"],
+    "borders": ["MMR", "IND"]
   },
   {
     "currencies": [
@@ -690,9 +599,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 285000,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -730,16 +637,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 9498700,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "LVA",
-      "LTU",
-      "POL",
-      "RUS",
-      "UKR"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["LVA", "LTU", "POL", "RUS", "UKR"]
   },
   {
     "currencies": [
@@ -777,15 +676,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 11319511,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "FRA",
-      "DEU",
-      "LUX",
-      "NLD"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["FRA", "DEU", "LUX", "NLD"]
   },
   {
     "currencies": [
@@ -817,13 +709,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 370300,
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "borders": [
-      "GTM",
-      "MEX"
-    ]
+    "timezones": ["UTC-06:00"],
+    "borders": ["GTM", "MEX"]
   },
   {
     "currencies": [
@@ -849,15 +736,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 10653654,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BFA",
-      "NER",
-      "NGA",
-      "TGO"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["BFA", "NER", "NGA", "TGO"]
   },
   {
     "currencies": [
@@ -883,9 +763,7 @@
     "region": "Americas",
     "subregion": "Northern America",
     "population": 61954,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -917,13 +795,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 775620,
-    "timezones": [
-      "UTC+06:00"
-    ],
-    "borders": [
-      "CHN",
-      "IND"
-    ]
+    "timezones": ["UTC+06:00"],
+    "borders": ["CHN", "IND"]
   },
   {
     "currencies": [
@@ -961,16 +834,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 10985059,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "ARG",
-      "BRA",
-      "CHL",
-      "PRY",
-      "PER"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["ARG", "BRA", "CHL", "PRY", "PER"]
   },
   {
     "currencies": [
@@ -996,9 +861,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 17408,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -1036,14 +899,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 3531159,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "HRV",
-      "MNE",
-      "SRB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["HRV", "MNE", "SRB"]
   },
   {
     "currencies": [
@@ -1075,15 +932,8 @@
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 2141206,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "NAM",
-      "ZAF",
-      "ZMB",
-      "ZWE"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["NAM", "ZAF", "ZMB", "ZWE"]
   },
   {
     "currencies": [
@@ -1121,9 +971,7 @@
     "region": "",
     "subregion": "",
     "population": 0,
-    "timezones": [
-      "UTC+01:00"
-    ],
+    "timezones": ["UTC+01:00"],
     "borders": []
   },
   {
@@ -1150,12 +998,7 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 206135893,
-    "timezones": [
-      "UTC-05:00",
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-02:00"
-    ],
+    "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"],
     "borders": [
       "ARG",
       "BOL",
@@ -1193,9 +1036,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 3000,
-    "timezones": [
-      "UTC+06:00"
-    ],
+    "timezones": ["UTC+06:00"],
     "borders": []
   },
   {
@@ -1222,11 +1063,7 @@
     "region": "Americas",
     "subregion": "Northern America",
     "population": 300,
-    "timezones": [
-      "UTC-11:00",
-      "UTC-10:00",
-      "UTC+12:00"
-    ],
+    "timezones": ["UTC-11:00", "UTC-10:00", "UTC+12:00"],
     "borders": []
   },
   {
@@ -1257,9 +1094,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 28514,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -1286,9 +1121,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 114743,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -1320,12 +1153,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 411900,
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "borders": [
-      "MYS"
-    ]
+    "timezones": ["UTC+08:00"],
+    "borders": ["MYS"]
   },
   {
     "currencies": [
@@ -1351,16 +1180,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 7153784,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "GRC",
-      "MKD",
-      "ROU",
-      "SRB",
-      "TUR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["GRC", "MKD", "ROU", "SRB", "TUR"]
   },
   {
     "currencies": [
@@ -1392,17 +1213,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 19034397,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "BEN",
-      "CIV",
-      "GHA",
-      "MLI",
-      "NER",
-      "TGO"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"]
   },
   {
     "currencies": [
@@ -1434,14 +1246,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 10114505,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "COD",
-      "RWA",
-      "TZA"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["COD", "RWA", "TZA"]
   },
   {
     "currencies": [
@@ -1472,14 +1278,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 15626444,
-    "timezones": [
-      "UTC+07:00"
-    ],
-    "borders": [
-      "LAO",
-      "THA",
-      "VNM"
-    ]
+    "timezones": ["UTC+07:00"],
+    "borders": ["LAO", "THA", "VNM"]
   },
   {
     "currencies": [
@@ -1511,17 +1311,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 22709892,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "CAF",
-      "TCD",
-      "COG",
-      "GNQ",
-      "GAB",
-      "NGA"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"]
   },
   {
     "currencies": [
@@ -1561,9 +1352,7 @@
       "UTC-04:00",
       "UTC-03:30"
     ],
-    "borders": [
-      "USA"
-    ]
+    "borders": ["USA"]
   },
   {
     "currencies": [
@@ -1589,9 +1378,7 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 531239,
-    "timezones": [
-      "UTC-01:00"
-    ],
+    "timezones": ["UTC-01:00"],
     "borders": []
   },
   {
@@ -1618,9 +1405,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 58238,
-    "timezones": [
-      "UTC-05:00"
-    ],
+    "timezones": ["UTC-05:00"],
     "borders": []
   },
   {
@@ -1653,17 +1438,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 4998000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "CMR",
-      "TCD",
-      "COD",
-      "COG",
-      "SSD",
-      "SDN"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"]
   },
   {
     "currencies": [
@@ -1695,17 +1471,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 14497000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "CMR",
-      "CAF",
-      "LBY",
-      "NER",
-      "NGA",
-      "SSD"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"]
   },
   {
     "currencies": [
@@ -1731,15 +1498,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 18191900,
-    "timezones": [
-      "UTC-06:00",
-      "UTC-04:00"
-    ],
-    "borders": [
-      "ARG",
-      "BOL",
-      "PER"
-    ]
+    "timezones": ["UTC-06:00", "UTC-04:00"],
+    "borders": ["ARG", "BOL", "PER"]
   },
   {
     "currencies": [
@@ -1765,9 +1525,7 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 1377422166,
-    "timezones": [
-      "UTC+08:00"
-    ],
+    "timezones": ["UTC+08:00"],
     "borders": [
       "AFG",
       "BTN",
@@ -1810,9 +1568,7 @@
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
     "population": 2072,
-    "timezones": [
-      "UTC+07:00"
-    ],
+    "timezones": ["UTC+07:00"],
     "borders": []
   },
   {
@@ -1839,9 +1595,7 @@
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
     "population": 550,
-    "timezones": [
-      "UTC+06:30"
-    ],
+    "timezones": ["UTC+06:30"],
     "borders": []
   },
   {
@@ -1868,16 +1622,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 48759958,
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "borders": [
-      "BRA",
-      "ECU",
-      "PAN",
-      "PER",
-      "VEN"
-    ]
+    "timezones": ["UTC-05:00"],
+    "borders": ["BRA", "ECU", "PAN", "PER", "VEN"]
   },
   {
     "currencies": [
@@ -1909,9 +1655,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 806153,
-    "timezones": [
-      "UTC+03:00"
-    ],
+    "timezones": ["UTC+03:00"],
     "borders": []
   },
   {
@@ -1944,16 +1688,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 4741000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AGO",
-      "CMR",
-      "CAF",
-      "COD",
-      "GAB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AGO", "CMR", "CAF", "COD", "GAB"]
   },
   {
     "currencies": [
@@ -2003,21 +1739,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 85026000,
-    "timezones": [
-      "UTC+01:00",
-      "UTC+02:00"
-    ],
-    "borders": [
-      "AGO",
-      "BDI",
-      "CAF",
-      "COG",
-      "RWA",
-      "SSD",
-      "TZA",
-      "UGA",
-      "ZMB"
-    ]
+    "timezones": ["UTC+01:00", "UTC+02:00"],
+    "borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"]
   },
   {
     "currencies": [
@@ -2048,9 +1771,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 18100,
-    "timezones": [
-      "UTC-10:00"
-    ],
+    "timezones": ["UTC-10:00"],
     "borders": []
   },
   {
@@ -2077,13 +1798,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 4890379,
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "borders": [
-      "NIC",
-      "PAN"
-    ]
+    "timezones": ["UTC-06:00"],
+    "borders": ["NIC", "PAN"]
   },
   {
     "currencies": [
@@ -2109,16 +1825,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 4190669,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BIH",
-      "HUN",
-      "MNE",
-      "SRB",
-      "SVN"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["BIH", "HUN", "MNE", "SRB", "SVN"]
   },
   {
     "currencies": [
@@ -2149,9 +1857,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 11239004,
-    "timezones": [
-      "UTC-05:00"
-    ],
+    "timezones": ["UTC-05:00"],
     "borders": []
   },
   {
@@ -2190,9 +1896,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 154843,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -2231,12 +1935,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 847000,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "GBR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["GBR"]
   },
   {
     "currencies": [
@@ -2268,15 +1968,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 10558524,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "DEU",
-      "POL",
-      "SVK"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "DEU", "POL", "SVK"]
   },
   {
     "currencies": [
@@ -2302,16 +1995,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 5717014,
-    "timezones": [
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-01:00",
-      "UTC",
-      "UTC+01:00"
-    ],
-    "borders": [
-      "DEU"
-    ]
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC", "UTC+01:00"],
+    "borders": ["DEU"]
   },
   {
     "currencies": [
@@ -2343,14 +2028,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 900000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "ERI",
-      "ETH",
-      "SOM"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["ERI", "ETH", "SOM"]
   },
   {
     "currencies": [
@@ -2376,9 +2055,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 71293,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -2405,12 +2082,8 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 10075045,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "HTI"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["HTI"]
   },
   {
     "currencies": [
@@ -2436,14 +2109,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 16545799,
-    "timezones": [
-      "UTC-06:00",
-      "UTC-05:00"
-    ],
-    "borders": [
-      "COL",
-      "PER"
-    ]
+    "timezones": ["UTC-06:00", "UTC-05:00"],
+    "borders": ["COL", "PER"]
   },
   {
     "currencies": [
@@ -2469,14 +2136,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 91290000,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "ISR",
-      "LBY",
-      "SDN"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["ISR", "LBY", "SDN"]
   },
   {
     "currencies": [
@@ -2502,13 +2163,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 6520675,
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "borders": [
-      "GTM",
-      "HND"
-    ]
+    "timezones": ["UTC-06:00"],
+    "borders": ["GTM", "HND"]
   },
   {
     "currencies": [
@@ -2540,13 +2196,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 1222442,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "CMR",
-      "GAB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["CMR", "GAB"]
   },
   {
     "currencies": [
@@ -2584,14 +2235,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 5352000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "DJI",
-      "ETH",
-      "SDN"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["DJI", "ETH", "SDN"]
   },
   {
     "currencies": [
@@ -2617,13 +2262,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 1315944,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "LVA",
-      "RUS"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["LVA", "RUS"]
   },
   {
     "currencies": [
@@ -2649,17 +2289,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 92206005,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "DJI",
-      "ERI",
-      "KEN",
-      "SOM",
-      "SSD",
-      "SDN"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"]
   },
   {
     "currencies": [
@@ -2685,9 +2316,7 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 2563,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -2719,9 +2348,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 49376,
-    "timezones": [
-      "UTC+00:00"
-    ],
+    "timezones": ["UTC+00:00"],
     "borders": []
   },
   {
@@ -2766,9 +2393,7 @@
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 867000,
-    "timezones": [
-      "UTC+12:00"
-    ],
+    "timezones": ["UTC+12:00"],
     "borders": []
   },
   {
@@ -2801,14 +2426,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 5491817,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "NOR",
-      "SWE",
-      "RUS"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["NOR", "SWE", "RUS"]
   },
   {
     "currencies": [
@@ -2848,16 +2467,7 @@
       "UTC+11:00",
       "UTC+12:00"
     ],
-    "borders": [
-      "AND",
-      "BEL",
-      "DEU",
-      "ITA",
-      "LUX",
-      "MCO",
-      "ESP",
-      "CHE"
-    ]
+    "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"]
   },
   {
     "currencies": [
@@ -2883,13 +2493,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 254541,
-    "timezones": [
-      "UTC-03:00"
-    ],
-    "borders": [
-      "BRA",
-      "SUR"
-    ]
+    "timezones": ["UTC-03:00"],
+    "borders": ["BRA", "SUR"]
   },
   {
     "currencies": [
@@ -2915,11 +2520,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 271800,
-    "timezones": [
-      "UTC-10:00",
-      "UTC-09:30",
-      "UTC-09:00"
-    ],
+    "timezones": ["UTC-10:00", "UTC-09:30", "UTC-09:00"],
     "borders": []
   },
   {
@@ -2946,9 +2547,7 @@
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 140,
-    "timezones": [
-      "UTC+05:00"
-    ],
+    "timezones": ["UTC+05:00"],
     "borders": []
   },
   {
@@ -2975,14 +2574,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 1802278,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "CMR",
-      "COG",
-      "GNQ"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["CMR", "COG", "GNQ"]
   },
   {
     "currencies": [
@@ -3008,12 +2601,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 1882450,
-    "timezones": [
-      "UTC+00:00"
-    ],
-    "borders": [
-      "SEN"
-    ]
+    "timezones": ["UTC+00:00"],
+    "borders": ["SEN"]
   },
   {
     "currencies": [
@@ -3039,15 +2628,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 3720400,
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "borders": [
-      "ARM",
-      "AZE",
-      "RUS",
-      "TUR"
-    ]
+    "timezones": ["UTC-05:00"],
+    "borders": ["ARM", "AZE", "RUS", "TUR"]
   },
   {
     "currencies": [
@@ -3073,20 +2655,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 81770900,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "BEL",
-      "CZE",
-      "DNK",
-      "FRA",
-      "LUX",
-      "NLD",
-      "POL",
-      "CHE"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"]
   },
   {
     "currencies": [
@@ -3112,14 +2682,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 27670174,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "BFA",
-      "CIV",
-      "TGO"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["BFA", "CIV", "TGO"]
   },
   {
     "currencies": [
@@ -3145,12 +2709,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 33140,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "ESP"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["ESP"]
   },
   {
     "currencies": [
@@ -3176,15 +2736,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 10858018,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "ALB",
-      "BGR",
-      "TUR",
-      "MKD"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["ALB", "BGR", "TUR", "MKD"]
   },
   {
     "currencies": [
@@ -3210,12 +2763,7 @@
     "region": "Americas",
     "subregion": "Northern America",
     "population": 55847,
-    "timezones": [
-      "UTC-04:00",
-      "UTC-03:00",
-      "UTC-01:00",
-      "UTC+00:00"
-    ],
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC+00:00"],
     "borders": []
   },
   {
@@ -3242,9 +2790,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 103328,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -3271,9 +2817,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 400132,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -3312,9 +2856,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 184200,
-    "timezones": [
-      "UTC+10:00"
-    ],
+    "timezones": ["UTC+10:00"],
     "borders": []
   },
   {
@@ -3341,15 +2883,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 16176133,
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "borders": [
-      "BLZ",
-      "SLV",
-      "HND",
-      "MEX"
-    ]
+    "timezones": ["UTC-06:00"],
+    "borders": ["BLZ", "SLV", "HND", "MEX"]
   },
   {
     "currencies": [
@@ -3386,9 +2921,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 62999,
-    "timezones": [
-      "UTC+00:00"
-    ],
+    "timezones": ["UTC+00:00"],
     "borders": []
   },
   {
@@ -3421,17 +2954,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 12947000,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "CIV",
-      "GNB",
-      "LBR",
-      "MLI",
-      "SEN",
-      "SLE"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"]
   },
   {
     "currencies": [
@@ -3457,13 +2981,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 1547777,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "GIN",
-      "SEN"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["GIN", "SEN"]
   },
   {
     "currencies": [
@@ -3489,14 +3008,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 746900,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "BRA",
-      "SUR",
-      "VEN"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["BRA", "SUR", "VEN"]
   },
   {
     "currencies": [
@@ -3528,12 +3041,8 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 11078033,
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "borders": [
-      "DOM"
-    ]
+    "timezones": ["UTC-05:00"],
+    "borders": ["DOM"]
   },
   {
     "currencies": [
@@ -3559,9 +3068,7 @@
     "region": "",
     "subregion": "",
     "population": 0,
-    "timezones": [
-      "UTC+05:00"
-    ],
+    "timezones": ["UTC+05:00"],
     "borders": []
   },
   {
@@ -3606,12 +3113,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 451,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "ITA"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["ITA"]
   },
   {
     "currencies": [
@@ -3637,14 +3140,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 8576532,
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "borders": [
-      "GTM",
-      "SLV",
-      "NIC"
-    ]
+    "timezones": ["UTC-06:00"],
+    "borders": ["GTM", "SLV", "NIC"]
   },
   {
     "currencies": [
@@ -3676,12 +3173,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 7324300,
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "borders": [
-      "CHN"
-    ]
+    "timezones": ["UTC+08:00"],
+    "borders": ["CHN"]
   },
   {
     "currencies": [
@@ -3707,18 +3200,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 9823000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "HRV",
-      "ROU",
-      "SRB",
-      "SVK",
-      "SVN",
-      "UKR"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"]
   },
   {
     "currencies": [
@@ -3744,9 +3227,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 334300,
-    "timezones": [
-      "UTC"
-    ],
+    "timezones": ["UTC"],
     "borders": []
   },
   {
@@ -3779,19 +3260,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 1295210000,
-    "timezones": [
-      "UTC+05:30"
-    ],
-    "borders": [
-      "AFG",
-      "BGD",
-      "BTN",
-      "MMR",
-      "CHN",
-      "NPL",
-      "PAK",
-      "LKA"
-    ]
+    "timezones": ["UTC+05:30"],
+    "borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"]
   },
   {
     "currencies": [
@@ -3817,16 +3287,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 258705000,
-    "timezones": [
-      "UTC+07:00",
-      "UTC+08:00",
-      "UTC+09:00"
-    ],
-    "borders": [
-      "TLS",
-      "MYS",
-      "PNG"
-    ]
+    "timezones": ["UTC+07:00", "UTC+08:00", "UTC+09:00"],
+    "borders": ["TLS", "MYS", "PNG"]
   },
   {
     "currencies": [
@@ -3852,16 +3314,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 22671331,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "BFA",
-      "GHA",
-      "GIN",
-      "LBR",
-      "MLI"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
   },
   {
     "currencies": [
@@ -3887,18 +3341,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 79369900,
-    "timezones": [
-      "UTC+03:30"
-    ],
-    "borders": [
-      "AFG",
-      "ARM",
-      "AZE",
-      "IRQ",
-      "PAK",
-      "TUR",
-      "TKM"
-    ]
+    "timezones": ["UTC+03:30"],
+    "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
   },
   {
     "currencies": [
@@ -3930,17 +3374,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 37883543,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "IRN",
-      "JOR",
-      "KWT",
-      "SAU",
-      "SYR",
-      "TUR"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
   },
   {
     "currencies": [
@@ -3972,12 +3407,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 6378000,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "GBR"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["GBR"]
   },
   {
     "currencies": [
@@ -4014,9 +3445,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 84497,
-    "timezones": [
-      "UTC+00:00"
-    ],
+    "timezones": ["UTC+00:00"],
     "borders": []
   },
   {
@@ -4049,15 +3478,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 8527400,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "EGY",
-      "JOR",
-      "LBN",
-      "SYR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["EGY", "JOR", "LBN", "SYR"]
   },
   {
     "currencies": [
@@ -4083,17 +3505,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 60665551,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "FRA",
-      "SMR",
-      "SVN",
-      "CHE",
-      "VAT"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"]
   },
   {
     "currencies": [
@@ -4119,9 +3532,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 2723246,
-    "timezones": [
-      "UTC-05:00"
-    ],
+    "timezones": ["UTC-05:00"],
     "borders": []
   },
   {
@@ -4148,9 +3559,7 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 126960000,
-    "timezones": [
-      "UTC+09:00"
-    ],
+    "timezones": ["UTC+09:00"],
     "borders": []
   },
   {
@@ -4188,9 +3597,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 100800,
-    "timezones": [
-      "UTC+01:00"
-    ],
+    "timezones": ["UTC+01:00"],
     "borders": []
   },
   {
@@ -4217,15 +3624,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 9531712,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "IRQ",
-      "ISR",
-      "SAU",
-      "SYR"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["IRQ", "ISR", "SAU", "SYR"]
   },
   {
     "currencies": [
@@ -4256,17 +3656,8 @@
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 17753200,
-    "timezones": [
-      "UTC+05:00",
-      "UTC+06:00"
-    ],
-    "borders": [
-      "CHN",
-      "KGZ",
-      "RUS",
-      "TKM",
-      "UZB"
-    ]
+    "timezones": ["UTC+05:00", "UTC+06:00"],
+    "borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"]
   },
   {
     "currencies": [
@@ -4298,16 +3689,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 47251000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "ETH",
-      "SOM",
-      "SSD",
-      "TZA",
-      "UGA"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["ETH", "SOM", "SSD", "TZA", "UGA"]
   },
   {
     "currencies": [
@@ -4338,11 +3721,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 113400,
-    "timezones": [
-      "UTC+12:00",
-      "UTC+13:00",
-      "UTC+14:00"
-    ],
+    "timezones": ["UTC+12:00", "UTC+13:00", "UTC+14:00"],
     "borders": []
   },
   {
@@ -4369,13 +3748,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 4183658,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "IRN",
-      "SAU"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["IRN", "SAU"]
   },
   {
     "currencies": [
@@ -4407,15 +3781,8 @@
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 6047800,
-    "timezones": [
-      "UTC+06:00"
-    ],
-    "borders": [
-      "CHN",
-      "KAZ",
-      "TJK",
-      "UZB"
-    ]
+    "timezones": ["UTC+06:00"],
+    "borders": ["CHN", "KAZ", "TJK", "UZB"]
   },
   {
     "currencies": [
@@ -4441,16 +3808,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 6492400,
-    "timezones": [
-      "UTC+07:00"
-    ],
-    "borders": [
-      "MMR",
-      "KHM",
-      "CHN",
-      "THA",
-      "VNM"
-    ]
+    "timezones": ["UTC+07:00"],
+    "borders": ["MMR", "KHM", "CHN", "THA", "VNM"]
   },
   {
     "currencies": [
@@ -4476,15 +3835,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 1961600,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BLR",
-      "EST",
-      "LTU",
-      "RUS"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BLR", "EST", "LTU", "RUS"]
   },
   {
     "currencies": [
@@ -4516,13 +3868,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 5988000,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "ISR",
-      "SYR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["ISR", "SYR"]
   },
   {
     "currencies": [
@@ -4559,12 +3906,8 @@
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 1894194,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "ZAF"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["ZAF"]
   },
   {
     "currencies": [
@@ -4590,14 +3933,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 4615000,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "GIN",
-      "CIV",
-      "SLE"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["GIN", "CIV", "SLE"]
   },
   {
     "currencies": [
@@ -4623,17 +3960,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 6385000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "DZA",
-      "TCD",
-      "EGY",
-      "NER",
-      "SDN",
-      "TUN"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"]
   },
   {
     "currencies": [
@@ -4659,13 +3987,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 37623,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "CHE"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "CHE"]
   },
   {
     "currencies": [
@@ -4691,15 +4014,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 2872294,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BLR",
-      "LVA",
-      "POL",
-      "RUS"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BLR", "LVA", "POL", "RUS"]
   },
   {
     "currencies": [
@@ -4737,14 +4053,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 576200,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BEL",
-      "FRA",
-      "DEU"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["BEL", "FRA", "DEU"]
   },
   {
     "currencies": [
@@ -4776,12 +4086,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 649100,
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "borders": [
-      "CHN"
-    ]
+    "timezones": ["UTC+08:00"],
+    "borders": ["CHN"]
   },
   {
     "currencies": [
@@ -4807,16 +4113,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 2058539,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "ALB",
-      "BGR",
-      "GRC",
-      "KOS",
-      "SRB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["ALB", "BGR", "GRC", "KOS", "SRB"]
   },
   {
     "currencies": [
@@ -4848,9 +4146,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 22434363,
-    "timezones": [
-      "UTC+03:00"
-    ],
+    "timezones": ["UTC+03:00"],
     "borders": []
   },
   {
@@ -4883,14 +4179,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 16832910,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "MOZ",
-      "TZA",
-      "ZMB"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["MOZ", "TZA", "ZMB"]
   },
   {
     "currencies": [
@@ -4915,14 +4205,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 31405416,
-    "timezones": [
-      "UTC+08:00"
-    ],
-    "borders": [
-      "BRN",
-      "IDN",
-      "THA"
-    ]
+    "timezones": ["UTC+08:00"],
+    "borders": ["BRN", "IDN", "THA"]
   },
   {
     "currencies": [
@@ -4948,9 +4232,7 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 344023,
-    "timezones": [
-      "UTC+05:00"
-    ],
+    "timezones": ["UTC+05:00"],
     "borders": []
   },
   {
@@ -4977,18 +4259,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 18135000,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "DZA",
-      "BFA",
-      "GIN",
-      "CIV",
-      "MRT",
-      "NER",
-      "SEN"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"]
   },
   {
     "currencies": [
@@ -5020,9 +4292,7 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 425384,
-    "timezones": [
-      "UTC+01:00"
-    ],
+    "timezones": ["UTC+01:00"],
     "borders": []
   },
   {
@@ -5055,9 +4325,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 54880,
-    "timezones": [
-      "UTC+12:00"
-    ],
+    "timezones": ["UTC+12:00"],
     "borders": []
   },
   {
@@ -5084,9 +4352,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 378243,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -5113,15 +4379,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 3718678,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "DZA",
-      "MLI",
-      "SEN",
-      "ESH"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["DZA", "MLI", "SEN", "ESH"]
   },
   {
     "currencies": [
@@ -5147,9 +4406,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 1262879,
-    "timezones": [
-      "UTC+04:00"
-    ],
+    "timezones": ["UTC+04:00"],
     "borders": []
   },
   {
@@ -5176,9 +4433,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 226915,
-    "timezones": [
-      "UTC+03:00"
-    ],
+    "timezones": ["UTC+03:00"],
     "borders": []
   },
   {
@@ -5205,16 +4460,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 122273473,
-    "timezones": [
-      "UTC-08:00",
-      "UTC-07:00",
-      "UTC-06:00"
-    ],
-    "borders": [
-      "BLZ",
-      "GTM",
-      "USA"
-    ]
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00"],
+    "borders": ["BLZ", "GTM", "USA"]
   },
   {
     "currencies": [
@@ -5244,10 +4491,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 102800,
-    "timezones": [
-      "UTC+10:00",
-      "UTC+11"
-    ],
+    "timezones": ["UTC+10:00", "UTC+11"],
     "borders": []
   },
   {
@@ -5274,13 +4518,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 3553100,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "ROU",
-      "UKR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["ROU", "UKR"]
   },
   {
     "currencies": [
@@ -5306,12 +4545,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 38400,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "FRA"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["FRA"]
   },
   {
     "currencies": [
@@ -5337,14 +4572,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 3093100,
-    "timezones": [
-      "UTC+07:00",
-      "UTC+08:00"
-    ],
-    "borders": [
-      "CHN",
-      "RUS"
-    ]
+    "timezones": ["UTC+07:00", "UTC+08:00"],
+    "borders": ["CHN", "RUS"]
   },
   {
     "currencies": [
@@ -5388,16 +4617,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 621810,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "ALB",
-      "BIH",
-      "HRV",
-      "KOS",
-      "SRB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["ALB", "BIH", "HRV", "KOS", "SRB"]
   },
   {
     "currencies": [
@@ -5423,9 +4644,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 4922,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -5452,14 +4671,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 33337529,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "DZA",
-      "ESH",
-      "ESP"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["DZA", "ESH", "ESP"]
   },
   {
     "currencies": [
@@ -5485,17 +4698,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 26423700,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "MWI",
-      "ZAF",
-      "SWZ",
-      "TZA",
-      "ZMB",
-      "ZWE"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"]
   },
   {
     "currencies": [
@@ -5521,16 +4725,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 51419420,
-    "timezones": [
-      "UTC+06:30"
-    ],
-    "borders": [
-      "BGD",
-      "CHN",
-      "IND",
-      "LAO",
-      "THA"
-    ]
+    "timezones": ["UTC+06:30"],
+    "borders": ["BGD", "CHN", "IND", "LAO", "THA"]
   },
   {
     "currencies": [
@@ -5567,15 +4763,8 @@
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 2324388,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AGO",
-      "BWA",
-      "ZAF",
-      "ZMB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AGO", "BWA", "ZAF", "ZMB"]
   },
   {
     "currencies": [
@@ -5611,9 +4800,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 10084,
-    "timezones": [
-      "UTC+12:00"
-    ],
+    "timezones": ["UTC+12:00"],
     "borders": []
   },
   {
@@ -5640,13 +4827,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 28431500,
-    "timezones": [
-      "UTC+05:45"
-    ],
-    "borders": [
-      "CHN",
-      "IND"
-    ]
+    "timezones": ["UTC+05:45"],
+    "borders": ["CHN", "IND"]
   },
   {
     "currencies": [
@@ -5672,14 +4854,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 17019800,
-    "timezones": [
-      "UTC-04:00",
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BEL",
-      "DEU"
-    ]
+    "timezones": ["UTC-04:00", "UTC+01:00"],
+    "borders": ["BEL", "DEU"]
   },
   {
     "currencies": [
@@ -5705,9 +4881,7 @@
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 268767,
-    "timezones": [
-      "UTC+11:00"
-    ],
+    "timezones": ["UTC+11:00"],
     "borders": []
   },
   {
@@ -5773,13 +4947,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 6262703,
-    "timezones": [
-      "UTC-06:00"
-    ],
-    "borders": [
-      "CRI",
-      "HND"
-    ]
+    "timezones": ["UTC-06:00"],
+    "borders": ["CRI", "HND"]
   },
   {
     "currencies": [
@@ -5805,18 +4974,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 20715000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "DZA",
-      "BEN",
-      "BFA",
-      "TCD",
-      "LBY",
-      "MLI",
-      "NGA"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"]
   },
   {
     "currencies": [
@@ -5842,15 +5001,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 186988000,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BEN",
-      "CMR",
-      "TCD",
-      "NER"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["BEN", "CMR", "TCD", "NER"]
   },
   {
     "currencies": [
@@ -5881,9 +5033,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 1470,
-    "timezones": [
-      "UTC-11:00"
-    ],
+    "timezones": ["UTC-11:00"],
     "borders": []
   },
   {
@@ -5910,9 +5060,7 @@
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
     "population": 2302,
-    "timezones": [
-      "UTC+11:30"
-    ],
+    "timezones": ["UTC+11:30"],
     "borders": []
   },
   {
@@ -5939,14 +5087,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 25281000,
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "borders": [
-      "CHN",
-      "KOR",
-      "RUS"
-    ]
+    "timezones": ["UTC+09:00"],
+    "borders": ["CHN", "KOR", "RUS"]
   },
   {
     "currencies": [
@@ -5978,9 +5120,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 56940,
-    "timezones": [
-      "UTC+10:00"
-    ],
+    "timezones": ["UTC+10:00"],
     "borders": []
   },
   {
@@ -6019,14 +5159,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 5223256,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "FIN",
-      "SWE",
-      "RUS"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["FIN", "SWE", "RUS"]
   },
   {
     "currencies": [
@@ -6052,14 +5186,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 4420133,
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "borders": [
-      "SAU",
-      "ARE",
-      "YEM"
-    ]
+    "timezones": ["UTC+04:00"],
+    "borders": ["SAU", "ARE", "YEM"]
   },
   {
     "currencies": [
@@ -6091,15 +5219,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 194125062,
-    "timezones": [
-      "UTC+05:00"
-    ],
-    "borders": [
-      "AFG",
-      "CHN",
-      "IND",
-      "IRN"
-    ]
+    "timezones": ["UTC+05:00"],
+    "borders": ["AFG", "CHN", "IND", "IRN"]
   },
   {
     "currencies": [
@@ -6130,9 +5251,7 @@
     "region": "Oceania",
     "subregion": "Micronesia",
     "population": 17950,
-    "timezones": [
-      "UTC+09:00"
-    ],
+    "timezones": ["UTC+09:00"],
     "borders": []
   },
   {
@@ -6159,14 +5278,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 4682467,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "ISR",
-      "EGY",
-      "JOR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["ISR", "EGY", "JOR"]
   },
   {
     "currencies": [
@@ -6197,13 +5310,8 @@
     "region": "Americas",
     "subregion": "Central America",
     "population": 3814672,
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "borders": [
-      "COL",
-      "CRI"
-    ]
+    "timezones": ["UTC-05:00"],
+    "borders": ["COL", "CRI"]
   },
   {
     "currencies": [
@@ -6229,12 +5337,8 @@
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 8083700,
-    "timezones": [
-      "UTC+10:00"
-    ],
-    "borders": [
-      "IDN"
-    ]
+    "timezones": ["UTC+10:00"],
+    "borders": ["IDN"]
   },
   {
     "currencies": [
@@ -6266,14 +5370,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 6854536,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "ARG",
-      "BOL",
-      "BRA"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["ARG", "BOL", "BRA"]
   },
   {
     "currencies": [
@@ -6299,16 +5397,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 31488700,
-    "timezones": [
-      "UTC-05:00"
-    ],
-    "borders": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "COL",
-      "ECU"
-    ]
+    "timezones": ["UTC-05:00"],
+    "borders": ["BOL", "BRA", "CHL", "COL", "ECU"]
   },
   {
     "currencies": [
@@ -6334,9 +5424,7 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 103279800,
-    "timezones": [
-      "UTC+08:00"
-    ],
+    "timezones": ["UTC+08:00"],
     "borders": []
   },
   {
@@ -6367,9 +5455,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 56,
-    "timezones": [
-      "UTC-08:00"
-    ],
+    "timezones": ["UTC-08:00"],
     "borders": []
   },
   {
@@ -6396,18 +5482,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 38437239,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BLR",
-      "CZE",
-      "DEU",
-      "LTU",
-      "RUS",
-      "SVK",
-      "UKR"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"]
   },
   {
     "currencies": [
@@ -6433,13 +5509,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 10374822,
-    "timezones": [
-      "UTC-01:00",
-      "UTC"
-    ],
-    "borders": [
-      "ESP"
-    ]
+    "timezones": ["UTC-01:00", "UTC"],
+    "borders": ["ESP"]
   },
   {
     "currencies": [
@@ -6471,9 +5542,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 3474182,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -6500,12 +5569,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 2587564,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "SAU"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["SAU"]
   },
   {
     "currencies": [
@@ -6537,15 +5602,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 1733842,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "ALB",
-      "MKD",
-      "MNE",
-      "SRB"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["ALB", "MKD", "MNE", "SRB"]
   },
   {
     "currencies": [
@@ -6571,9 +5629,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 840974,
-    "timezones": [
-      "UTC+04:00"
-    ],
+    "timezones": ["UTC+04:00"],
     "borders": []
   },
   {
@@ -6600,16 +5656,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 19861408,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BGR",
-      "HUN",
-      "MDA",
-      "SRB",
-      "UKR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BGR", "HUN", "MDA", "SRB", "UKR"]
   },
   {
     "currencies": [
@@ -6699,15 +5747,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 11553188,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BDI",
-      "COD",
-      "TZA",
-      "UGA"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BDI", "COD", "TZA", "UGA"]
   },
   {
     "currencies": [
@@ -6733,9 +5774,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 9417,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -6762,9 +5801,7 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 4255,
-    "timezones": [
-      "UTC+00:00"
-    ],
+    "timezones": ["UTC+00:00"],
     "borders": []
   },
   {
@@ -6791,9 +5828,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 46204,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -6820,9 +5855,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 186000,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -6861,13 +5894,8 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 36979,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "SXM",
-      "NLD"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["SXM", "NLD"]
   },
   {
     "currencies": [
@@ -6893,9 +5921,7 @@
     "region": "Americas",
     "subregion": "Northern America",
     "population": 6069,
-    "timezones": [
-      "UTC-03:00"
-    ],
+    "timezones": ["UTC-03:00"],
     "borders": []
   },
   {
@@ -6922,9 +5948,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 109991,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -6957,9 +5981,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 194899,
-    "timezones": [
-      "UTC+13:00"
-    ],
+    "timezones": ["UTC+13:00"],
     "borders": []
   },
   {
@@ -6986,12 +6008,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 33005,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "ITA"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["ITA"]
   },
   {
     "currencies": [
@@ -7017,9 +6035,7 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 187356,
-    "timezones": [
-      "UTC"
-    ],
+    "timezones": ["UTC"],
     "borders": []
   },
   {
@@ -7046,18 +6062,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 32248200,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "IRQ",
-      "JOR",
-      "KWT",
-      "OMN",
-      "QAT",
-      "ARE",
-      "YEM"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"]
   },
   {
     "currencies": [
@@ -7083,16 +6089,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 14799859,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "GMB",
-      "GIN",
-      "GNB",
-      "MLI",
-      "MRT"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["GMB", "GIN", "GNB", "MLI", "MRT"]
   },
   {
     "currencies": [
@@ -7118,19 +6116,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 7076372,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "BIH",
-      "BGR",
-      "HRV",
-      "HUN",
-      "KOS",
-      "MKD",
-      "MNE",
-      "ROU"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"]
   },
   {
     "currencies": [
@@ -7162,9 +6149,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 91400,
-    "timezones": [
-      "UTC+04:00"
-    ],
+    "timezones": ["UTC+04:00"],
     "borders": []
   },
   {
@@ -7191,13 +6176,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 7075641,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "GIN",
-      "LBR"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["GIN", "LBR"]
   },
   {
     "currencies": [
@@ -7246,9 +6226,7 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 5535000,
-    "timezones": [
-      "UTC+08:00"
-    ],
+    "timezones": ["UTC+08:00"],
     "borders": []
   },
   {
@@ -7281,12 +6259,8 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 38247,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "MAF"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["MAF"]
   },
   {
     "currencies": [
@@ -7312,16 +6286,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 5426252,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "CZE",
-      "HUN",
-      "POL",
-      "UKR"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "CZE", "HUN", "POL", "UKR"]
   },
   {
     "currencies": [
@@ -7347,15 +6313,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 2064188,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "HRV",
-      "ITA",
-      "HUN"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "HRV", "ITA", "HUN"]
   },
   {
     "currencies": [
@@ -7381,9 +6340,7 @@
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 642000,
-    "timezones": [
-      "UTC+11:00"
-    ],
+    "timezones": ["UTC+11:00"],
     "borders": []
   },
   {
@@ -7416,14 +6373,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 11079000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "DJI",
-      "ETH",
-      "KEN"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["DJI", "ETH", "KEN"]
   },
   {
     "currencies": [
@@ -7503,17 +6454,8 @@
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 55653654,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BWA",
-      "LSO",
-      "MOZ",
-      "NAM",
-      "SWZ",
-      "ZWE"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"]
   },
   {
     "currencies": [
@@ -7543,9 +6485,7 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 30,
-    "timezones": [
-      "UTC-02:00"
-    ],
+    "timezones": ["UTC-02:00"],
     "borders": []
   },
   {
@@ -7572,12 +6512,8 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 50801405,
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "borders": [
-      "PRK"
-    ]
+    "timezones": ["UTC+09:00"],
+    "borders": ["PRK"]
   },
   {
     "currencies": [
@@ -7603,17 +6539,8 @@
     "region": "Africa",
     "subregion": "Middle Africa",
     "population": 12131000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "CAF",
-      "COD",
-      "ETH",
-      "KEN",
-      "SDN",
-      "UGA"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"]
   },
   {
     "currencies": [
@@ -7639,17 +6566,8 @@
     "region": "Europe",
     "subregion": "Southern Europe",
     "population": 46438422,
-    "timezones": [
-      "UTC",
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AND",
-      "FRA",
-      "GIB",
-      "PRT",
-      "MAR"
-    ]
+    "timezones": ["UTC", "UTC+01:00"],
+    "borders": ["AND", "FRA", "GIB", "PRT", "MAR"]
   },
   {
     "currencies": [
@@ -7681,12 +6599,8 @@
     "region": "Asia",
     "subregion": "Southern Asia",
     "population": 20966000,
-    "timezones": [
-      "UTC+05:30"
-    ],
-    "borders": [
-      "IND"
-    ]
+    "timezones": ["UTC+05:30"],
+    "borders": ["IND"]
   },
   {
     "currencies": [
@@ -7718,18 +6632,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 39598700,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "CAF",
-      "TCD",
-      "EGY",
-      "ERI",
-      "ETH",
-      "LBY",
-      "SSD"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"]
   },
   {
     "currencies": [
@@ -7755,15 +6659,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 541638,
-    "timezones": [
-      "UTC-03:00"
-    ],
-    "borders": [
-      "BRA",
-      "GUF",
-      "FRA",
-      "GUY"
-    ]
+    "timezones": ["UTC-03:00"],
+    "borders": ["BRA", "GUF", "FRA", "GUY"]
   },
   {
     "currencies": [
@@ -7789,9 +6686,7 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 2562,
-    "timezones": [
-      "UTC+01:00"
-    ],
+    "timezones": ["UTC+01:00"],
     "borders": []
   },
   {
@@ -7824,13 +6719,8 @@
     "region": "Africa",
     "subregion": "Southern Africa",
     "population": 1132657,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "MOZ",
-      "ZAF"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["MOZ", "ZAF"]
   },
   {
     "currencies": [
@@ -7856,13 +6746,8 @@
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 9894888,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "FIN",
-      "NOR"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["FIN", "NOR"]
   },
   {
     "currencies": [
@@ -7900,16 +6785,8 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "population": 8341600,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AUT",
-      "FRA",
-      "ITA",
-      "LIE",
-      "DEU"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"]
   },
   {
     "currencies": [
@@ -7935,16 +6812,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 18564000,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "IRQ",
-      "ISR",
-      "JOR",
-      "LBN",
-      "TUR"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"]
   },
   {
     "currencies": [
@@ -7970,9 +6839,7 @@
     "region": "Asia",
     "subregion": "Eastern Asia",
     "population": 23503349,
-    "timezones": [
-      "UTC+08:00"
-    ],
+    "timezones": ["UTC+08:00"],
     "borders": []
   },
   {
@@ -8005,15 +6872,8 @@
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 8593600,
-    "timezones": [
-      "UTC+05:00"
-    ],
-    "borders": [
-      "AFG",
-      "CHN",
-      "KGZ",
-      "UZB"
-    ]
+    "timezones": ["UTC+05:00"],
+    "borders": ["AFG", "CHN", "KGZ", "UZB"]
   },
   {
     "currencies": [
@@ -8045,19 +6905,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 55155000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "BDI",
-      "COD",
-      "KEN",
-      "MWI",
-      "MOZ",
-      "RWA",
-      "UGA",
-      "ZMB"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"]
   },
   {
     "currencies": [
@@ -8083,15 +6932,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 65327652,
-    "timezones": [
-      "UTC+07:00"
-    ],
-    "borders": [
-      "MMR",
-      "KHM",
-      "LAO",
-      "MYS"
-    ]
+    "timezones": ["UTC+07:00"],
+    "borders": ["MMR", "KHM", "LAO", "MYS"]
   },
   {
     "currencies": [
@@ -8118,12 +6960,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 1167242,
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "borders": [
-      "IDN"
-    ]
+    "timezones": ["UTC+09:00"],
+    "borders": ["IDN"]
   },
   {
     "currencies": [
@@ -8149,14 +6987,8 @@
     "region": "Africa",
     "subregion": "Western Africa",
     "population": 7143000,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "BEN",
-      "BFA",
-      "GHA"
-    ]
+    "timezones": ["UTC"],
+    "borders": ["BEN", "BFA", "GHA"]
   },
   {
     "currencies": [
@@ -8182,9 +7014,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 1411,
-    "timezones": [
-      "UTC+13:00"
-    ],
+    "timezones": ["UTC+13:00"],
     "borders": []
   },
   {
@@ -8217,9 +7047,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 103252,
-    "timezones": [
-      "UTC+13:00"
-    ],
+    "timezones": ["UTC+13:00"],
     "borders": []
   },
   {
@@ -8246,9 +7074,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 1349667,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -8275,13 +7101,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 11154400,
-    "timezones": [
-      "UTC+01:00"
-    ],
-    "borders": [
-      "DZA",
-      "LBY"
-    ]
+    "timezones": ["UTC+01:00"],
+    "borders": ["DZA", "LBY"]
   },
   {
     "currencies": [
@@ -8306,19 +7127,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 78741053,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "ARM",
-      "AZE",
-      "BGR",
-      "GEO",
-      "GRC",
-      "IRN",
-      "IRQ",
-      "SYR"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
   },
   {
     "currencies": [
@@ -8350,15 +7160,8 @@
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 4751120,
-    "timezones": [
-      "UTC+05:00"
-    ],
-    "borders": [
-      "AFG",
-      "IRN",
-      "KAZ",
-      "UZB"
-    ]
+    "timezones": ["UTC+05:00"],
+    "borders": ["AFG", "IRN", "KAZ", "UZB"]
   },
   {
     "currencies": [
@@ -8384,9 +7187,7 @@
     "region": "Americas",
     "subregion": "Caribbean",
     "population": 31458,
-    "timezones": [
-      "UTC-04:00"
-    ],
+    "timezones": ["UTC-04:00"],
     "borders": []
   },
   {
@@ -8418,9 +7219,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 10640,
-    "timezones": [
-      "UTC+12:00"
-    ],
+    "timezones": ["UTC+12:00"],
     "borders": []
   },
   {
@@ -8453,16 +7252,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 33860700,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "COD",
-      "KEN",
-      "RWA",
-      "SSD",
-      "TZA"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["COD", "KEN", "RWA", "SSD", "TZA"]
   },
   {
     "currencies": [
@@ -8488,18 +7279,8 @@
     "region": "Europe",
     "subregion": "Eastern Europe",
     "population": 42692393,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BLR",
-      "HUN",
-      "MDA",
-      "POL",
-      "ROU",
-      "RUS",
-      "SVK"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"]
   },
   {
     "currencies": [
@@ -8525,13 +7306,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 9856000,
-    "timezones": [
-      "UTC+04"
-    ],
-    "borders": [
-      "OMN",
-      "SAU"
-    ]
+    "timezones": ["UTC+04"],
+    "borders": ["OMN", "SAU"]
   },
   {
     "currencies": [
@@ -8568,9 +7344,7 @@
       "UTC+02:00",
       "UTC+06:00"
     ],
-    "borders": [
-      "IRL"
-    ]
+    "borders": ["IRL"]
   },
   {
     "currencies": [
@@ -8609,10 +7383,7 @@
       "UTC+10:00",
       "UTC+12:00"
     ],
-    "borders": [
-      "CAN",
-      "MEX"
-    ]
+    "borders": ["CAN", "MEX"]
   },
   {
     "currencies": [
@@ -8638,13 +7409,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 3480222,
-    "timezones": [
-      "UTC-03:00"
-    ],
-    "borders": [
-      "ARG",
-      "BRA"
-    ]
+    "timezones": ["UTC-03:00"],
+    "borders": ["ARG", "BRA"]
   },
   {
     "currencies": [
@@ -8675,16 +7441,8 @@
     "region": "Asia",
     "subregion": "Central Asia",
     "population": 31576400,
-    "timezones": [
-      "UTC+05:00"
-    ],
-    "borders": [
-      "AFG",
-      "KAZ",
-      "KGZ",
-      "TJK",
-      "TKM"
-    ]
+    "timezones": ["UTC+05:00"],
+    "borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"]
   },
   {
     "currencies": [
@@ -8722,9 +7480,7 @@
     "region": "Oceania",
     "subregion": "Melanesia",
     "population": 277500,
-    "timezones": [
-      "UTC+11:00"
-    ],
+    "timezones": ["UTC+11:00"],
     "borders": []
   },
   {
@@ -8751,14 +7507,8 @@
     "region": "Americas",
     "subregion": "South America",
     "population": 31028700,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [
-      "BRA",
-      "COL",
-      "GUY"
-    ]
+    "timezones": ["UTC-04:00"],
+    "borders": ["BRA", "COL", "GUY"]
   },
   {
     "currencies": [
@@ -8784,14 +7534,8 @@
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "population": 92700000,
-    "timezones": [
-      "UTC+07:00"
-    ],
-    "borders": [
-      "KHM",
-      "CHN",
-      "LAO"
-    ]
+    "timezones": ["UTC+07:00"],
+    "borders": ["KHM", "CHN", "LAO"]
   },
   {
     "currencies": [
@@ -8817,9 +7561,7 @@
     "region": "Oceania",
     "subregion": "Polynesia",
     "population": 11750,
-    "timezones": [
-      "UTC+12:00"
-    ],
+    "timezones": ["UTC+12:00"],
     "borders": []
   },
   {
@@ -8851,14 +7593,8 @@
     "region": "Africa",
     "subregion": "Northern Africa",
     "population": 510713,
-    "timezones": [
-      "UTC+00:00"
-    ],
-    "borders": [
-      "DZA",
-      "MRT",
-      "MAR"
-    ]
+    "timezones": ["UTC+00:00"],
+    "borders": ["DZA", "MRT", "MAR"]
   },
   {
     "currencies": [
@@ -8884,13 +7620,8 @@
     "region": "Asia",
     "subregion": "Western Asia",
     "population": 27478000,
-    "timezones": [
-      "UTC+03:00"
-    ],
-    "borders": [
-      "OMN",
-      "SAU"
-    ]
+    "timezones": ["UTC+03:00"],
+    "borders": ["OMN", "SAU"]
   },
   {
     "currencies": [
@@ -8916,19 +7647,8 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 15933883,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "AGO",
-      "BWA",
-      "COD",
-      "MWI",
-      "MOZ",
-      "NAM",
-      "TZA",
-      "ZWE"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"]
   },
   {
     "currencies": [
@@ -9004,14 +7724,7 @@
     "region": "Africa",
     "subregion": "Eastern Africa",
     "population": 14240168,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [
-      "BWA",
-      "MOZ",
-      "ZAF",
-      "ZMB"
-    ]
+    "timezones": ["UTC+02:00"],
+    "borders": ["BWA", "MOZ", "ZAF", "ZMB"]
   }
 ]

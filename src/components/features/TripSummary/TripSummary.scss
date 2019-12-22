@@ -1,4 +1,4 @@
-@import '../../../styles/settings.scss';
+@import "../../../styles/settings.scss";
 
 .component {
   margin-bottom: ($base-size * 2);
@@ -8,7 +8,7 @@
   width: 100%;
   &:hover {
     transform: translateY(-15px);
-    box-shadow: 0 40px 40px 0 rgba(0,0,0,0.16);
+    box-shadow: 0 40px 40px 0 rgba(0, 0, 0, 0.16);
   }
 
   img {

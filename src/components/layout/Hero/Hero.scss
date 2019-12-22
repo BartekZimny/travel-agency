@@ -1,4 +1,4 @@
-@import '../../../styles/settings.scss';
+@import "../../../styles/settings.scss";
 
 .component {
   position: relative;
@@ -7,10 +7,10 @@
   margin: 0 0 ($base-size * 5) 0;
   overflow: hidden;
   &.small {
-    min-height: ($base-size * 25)
+    min-height: ($base-size * 25);
   }
-  @include p-el('before') {
-    content: '';
+  @include p-el("before") {
+    content: "";
     width: 100%;
     height: 100%;
     top: 0;
@@ -31,7 +31,7 @@
   font-size: ($base-size * 5);
   text-transform: uppercase;
   color: $color-light;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
 
 .image {

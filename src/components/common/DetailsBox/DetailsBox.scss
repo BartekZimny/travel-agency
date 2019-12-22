@@ -1,4 +1,4 @@
-@import '../../../styles/settings.scss';
+@import "../../../styles/settings.scss";
 
 .component {
   position: relative;
@@ -29,11 +29,9 @@
 }
 
 @media (max-width: 767px) {
-
   .component {
     &.small {
       height: auto;
     }
   }
-
 }

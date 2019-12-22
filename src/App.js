@@ -81,7 +81,4 @@ const mapDispatchToProps = dispatch => ({
   setStates: newState => dispatch(setMultipleStates(newState)),
 });
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(App);
+export default connect(mapStateToProps, mapDispatchToProps)(App);

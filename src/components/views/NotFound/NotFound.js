@@ -1,5 +1,5 @@
 import React from 'react';
-import {Grid} from 'react-flexbox-grid';
+import { Grid } from 'react-flexbox-grid';
 import Section from '../../layout/Section/Section';
 
 const NotFound = () => (
