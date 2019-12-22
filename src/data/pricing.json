@@ -55,6 +55,11 @@
     }
   },
   {
+    "id": "start-date",
+    "name": "Preferred trip start",
+    "type": "date"
+  },
+  {
     "id": "name",
     "name": "Your name",
     "type": "text"
@@ -63,10 +68,5 @@
     "id": "contact",
     "name": "Contact info (phone, email, etc.)",
     "type": "text"
-  },
-  {
-    "id": "start-date",
-    "name": "Preferred trip start",
-    "type": "date"
   }
 ]
