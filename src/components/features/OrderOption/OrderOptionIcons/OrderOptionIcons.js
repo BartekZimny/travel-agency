@@ -6,7 +6,12 @@ import Icon from '../../../common/Icon/Icon';
 
 import { formatPrice } from '../../../../utils/formatPrice';
 
-const OrderOptionIcons = ({ required, values, setOptionValue }) => (
+const OrderOptionIcons = ({
+  required,
+  values,
+  currentValue,
+  setOptionValue,
+}) => (
   <div className={styles.icon}>
     {required ? (
       ''
@@ -18,8 +23,9 @@ const OrderOptionIcons = ({ required, values, setOptionValue }) => (
     )}
     {values.map(value => (
       <div
-        className={styles.icon}
-        // activeClassName={styles.iconActive}
+        className={`${styles.icon} ${
+          currentValue === value.id ? styles.iconActive : ''
+        }`}
         key={value.id}
         onClick={() => setOptionValue(value.id)}
       >
@@ -33,6 +39,7 @@ const OrderOptionIcons = ({ required, values, setOptionValue }) => (
 OrderOptionIcons.propTypes = {
   values: PropTypes.array,
   required: PropTypes.bool,
+  currentValue: PropTypes.string,
   setOptionValue: PropTypes.func,
 };
 
